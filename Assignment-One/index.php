@@ -26,7 +26,7 @@ var_dump($My_Array);*/
 			<td> <?=$MyArray['phone_number'] ?></td>
 
 		</tr>
-	<?php endforeach ?>
+		<?php endforeach ?>
 	</tbody>
 	</table>
 </section>
