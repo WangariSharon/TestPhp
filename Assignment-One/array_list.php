@@ -5,5 +5,5 @@
 	array('name'=> 'Erin Silver'     , 'age' => '22' , 'phone_number' => '001-00900'),
 	array('name'=> 'Chris Hemsworth' , 'age' => '34' , 'phone_number' => '111-90210'),
 );
-	var_dump($My_Array);
+	
 ?>
